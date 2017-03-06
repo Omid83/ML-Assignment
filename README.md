@@ -1,6 +1,8 @@
 # ML-Assignment
 Machine learning assignment Coursera
 
+*** FOR ALL PLOTS DOWNLOAD word document or rmd file***
+
 Prediction Assignment description
 
 The goal of your project is to predict the manner in which they did the exercise. This is the "classe" variable 
