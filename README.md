@@ -1,7 +1,7 @@
 # ML-Assignment
 Machine learning assignment Coursera
 
-*** FOR ALL PLOTS DOWNLOAD word document or rmd file***
+*** FOR ALL PLOTS -> download word document or rmd file***
 
 Prediction Assignment description
 
