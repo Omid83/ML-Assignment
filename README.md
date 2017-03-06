@@ -8,6 +8,12 @@ in the training set. You may use any of the other variables to predict with. You
 how you built your model, how you used cross validation, what you think the expected out of sample error is, and 
 why you made the choices you did. You will also use your prediction model to predict 20 different test cases.
 
+Selection of Models:
+
+I've decided to make my analysis based on two models. Random Forest Model and Gradient Boosting Model. I will start by 
+analysing the data quality in order to base the analysis on correct and clean data. Then I'll proceed to build the actual models on training-data and later on try and validate the models och test-data and validation-data. I will make final predictions on the model with best accuracy. Below you'll find the R-code:
+
+
 ---
 title: "ML Assignment"
 author: "Omid Sedighi"
